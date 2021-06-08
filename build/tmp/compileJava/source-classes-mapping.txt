@@ -1,2 +1,0 @@
-com/ouest/PoliroApplication.java
- com.ouest.PoliroApplication
