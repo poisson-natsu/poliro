@@ -1,0 +1,3 @@
+rootProject.name = 'poliro'
+include 'eureka-server'
+include 'eureka-client-support'
